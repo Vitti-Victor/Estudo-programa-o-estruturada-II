@@ -1,0 +1,3 @@
+tradução de sizeof(): Tamanho de (alguma variável dentro do parenteses).
+
+O sizeof(), irá  retornar o tamanho em bytes do que estiver dentro de "()".

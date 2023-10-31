@@ -1,0 +1,12 @@
+Declaração de ponteiro: int *ponteiro;
+
+Printar o endereço do ponteiro: printf("%d", ponteiro);
+
+Alterar o o valor de algum endereço:
+
+int x = 10, y = 20;
+int *p;
+
+p = &x
+
+*p = y;

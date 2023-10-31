@@ -1,0 +1,5 @@
+1 - Arrays Unidimensionais e multidimensionais
+2 - Estrutura (Uso do struct)
+3 - Ponteiros
+4 - Alocação dinâmica
+5 - Funções/Procedimentos (Rotinas)
